@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Parcial1Lib/Parcial1Lib.csproj" />
+  <Project Path="Parcial1Test/Parcial1Test.csproj" />
+  <Project Path="Parcial_VCY/Parcial_VCY.csproj" />
+</Solution>
